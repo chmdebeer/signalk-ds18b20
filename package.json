@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "chmdebeer@gmail.com"
+  },
+  "description": "Signal K DS18b20 temperature interface",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "signalk-ds18b20",
+  "version": "0.0.1",
+  "dependencies": {
+    "rpi-temperature": "latest"
+  }
+}
